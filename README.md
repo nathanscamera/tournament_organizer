@@ -16,4 +16,4 @@ This directory can be initiated with [Vagrant](https://www.vagrantup.com/) by ex
 - `cd /vagrant/tournament`
 - `python tournament_test.py`
 
-Note that the test suite wipes and adds records to the database, so in the off chance that you are using this in a production environment, do not execute it!
+Note that the test suite wipes and adds records to the database.
